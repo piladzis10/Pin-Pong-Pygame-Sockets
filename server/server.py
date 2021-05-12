@@ -5,7 +5,7 @@ from game import Game
 
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server = "192.168.0.102"
+server = ""
 port = 5558
 adr = (server, port)
 
